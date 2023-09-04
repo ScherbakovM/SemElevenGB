@@ -2,7 +2,7 @@
 
 ### Прототип сайта для компании занимающейся event мероприятиями
 
-[figma](https://www.figma.com/file/q9ao12U2GzIp8kWBwKniVy/Untitled?type=design&node-id=0%3A1&mode=design&t=VUYgiaDJqYGh4ozW-1) ![free-icon-figma-5968705 (2)](https://github.com/ScherbakovM/SemElevenGB/assets/109952823/fff2053b-7a75-4b97-95e1-2088e84f5a5b)
+[FIGMA](https://www.figma.com/file/q9ao12U2GzIp8kWBwKniVy/Untitled?type=design&node-id=0%3A1&mode=design&t=VUYgiaDJqYGh4ozW-1) ![free-icon-figma-5968705 (2)](https://github.com/ScherbakovM/SemElevenGB/assets/109952823/fff2053b-7a75-4b97-95e1-2088e84f5a5b)
 
 
 
