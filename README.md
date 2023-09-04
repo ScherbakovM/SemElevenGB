@@ -8,3 +8,8 @@
 
 
 <img width="942" alt="image" src="https://github.com/ScherbakovM/SemElevenGB/assets/109952823/94af8820-8544-406d-b59b-f025abe9d804">
+
+
+UML диограмма домена
+
+<img width="831" alt="image" src="https://github.com/ScherbakovM/SemElevenGB/assets/109952823/2470c68f-4b8f-4e00-9105-ecef137def22">
